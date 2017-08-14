@@ -9,6 +9,8 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	
+	Once a logical change is made, you can send the file to the staging area to await being committed. While in the staging area, the file won't be changed if you do any other editing to the file before committing.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
